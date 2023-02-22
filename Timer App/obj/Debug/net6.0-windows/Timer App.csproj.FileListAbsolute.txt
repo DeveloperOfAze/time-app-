@@ -1,0 +1,34 @@
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Timer App\Timer App\bin\Debug\net6.0-windows\Timer App.exe
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Timer App\Timer App\bin\Debug\net6.0-windows\Timer App.deps.json
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Timer App\Timer App\bin\Debug\net6.0-windows\Timer App.runtimeconfig.json
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Timer App\Timer App\bin\Debug\net6.0-windows\Timer App.dll
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Timer App\Timer App\bin\Debug\net6.0-windows\Timer App.pdb
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Timer App\Timer App\obj\Debug\net6.0-windows\Timer App.csproj.AssemblyReference.cache
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Timer App\Timer App\obj\Debug\net6.0-windows\Timer_App.Form1.resources
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Timer App\Timer App\obj\Debug\net6.0-windows\Timer App.csproj.GenerateResource.cache
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Timer App\Timer App\obj\Debug\net6.0-windows\Timer App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Timer App\Timer App\obj\Debug\net6.0-windows\Timer App.AssemblyInfoInputs.cache
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Timer App\Timer App\obj\Debug\net6.0-windows\Timer App.AssemblyInfo.cs
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Timer App\Timer App\obj\Debug\net6.0-windows\Timer App.csproj.CoreCompileInputs.cache
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Timer App\Timer App\obj\Debug\net6.0-windows\Timer App.dll
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Timer App\Timer App\obj\Debug\net6.0-windows\refint\Timer App.dll
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Timer App\Timer App\obj\Debug\net6.0-windows\Timer App.pdb
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Timer App\Timer App\obj\Debug\net6.0-windows\Timer App.genruntimeconfig.cache
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Timer App\Timer App\obj\Debug\net6.0-windows\ref\Timer App.dll
+C:\Users\Ehed\Desktop\Timer App\bin\Debug\net6.0-windows\Timer App.exe
+C:\Users\Ehed\Desktop\Timer App\bin\Debug\net6.0-windows\Timer App.deps.json
+C:\Users\Ehed\Desktop\Timer App\bin\Debug\net6.0-windows\Timer App.runtimeconfig.json
+C:\Users\Ehed\Desktop\Timer App\bin\Debug\net6.0-windows\Timer App.dll
+C:\Users\Ehed\Desktop\Timer App\bin\Debug\net6.0-windows\Timer App.pdb
+C:\Users\Ehed\Desktop\Timer App\obj\Debug\net6.0-windows\Timer App.csproj.AssemblyReference.cache
+C:\Users\Ehed\Desktop\Timer App\obj\Debug\net6.0-windows\Timer_App.Form1.resources
+C:\Users\Ehed\Desktop\Timer App\obj\Debug\net6.0-windows\Timer App.csproj.GenerateResource.cache
+C:\Users\Ehed\Desktop\Timer App\obj\Debug\net6.0-windows\Timer App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ehed\Desktop\Timer App\obj\Debug\net6.0-windows\Timer App.AssemblyInfoInputs.cache
+C:\Users\Ehed\Desktop\Timer App\obj\Debug\net6.0-windows\Timer App.AssemblyInfo.cs
+C:\Users\Ehed\Desktop\Timer App\obj\Debug\net6.0-windows\Timer App.csproj.CoreCompileInputs.cache
+C:\Users\Ehed\Desktop\Timer App\obj\Debug\net6.0-windows\Timer App.dll
+C:\Users\Ehed\Desktop\Timer App\obj\Debug\net6.0-windows\refint\Timer App.dll
+C:\Users\Ehed\Desktop\Timer App\obj\Debug\net6.0-windows\Timer App.pdb
+C:\Users\Ehed\Desktop\Timer App\obj\Debug\net6.0-windows\Timer App.genruntimeconfig.cache
+C:\Users\Ehed\Desktop\Timer App\obj\Debug\net6.0-windows\ref\Timer App.dll
